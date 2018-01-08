@@ -1,0 +1,6 @@
+{
+  "plugin-data": {
+    "name": "Minify HTML",
+    "description": "A plugin the minify html output from the Bludit CMS. It has no settings, just activate or deactivate it."
+  }
+}
