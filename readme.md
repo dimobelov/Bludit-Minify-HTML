@@ -27,5 +27,5 @@ It is discouraged to use this plugin in any project that promotes racism, sexism
 
 ## Credits
 
-- [Diego Najar]([](https://github.com/dignajar))
+- [Diego Najar](https://github.com/dignajar)
 - [@ian-cox](https://github.com/ian-cox) for inspiration from the plugin [Kirby MinifyHTML](https://github.com/ian-cox/Kirby-MinifyHTML).
